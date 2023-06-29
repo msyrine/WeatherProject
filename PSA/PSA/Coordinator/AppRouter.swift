@@ -29,6 +29,5 @@ final class AppRouter: Coordinator {
         detailCityWeatherViewController.cityWeather = cityWeather
         detailCityWeatherViewController.coordinator = self
         navigationController.pushViewController(detailCityWeatherViewController, animated: true)
-        print("instanciated")
     }
 }

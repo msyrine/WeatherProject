@@ -31,7 +31,6 @@ struct Service {
     func performRequest(with urlString: String, completion: @escaping (Result<CityWeather, WeatherError>) -> Void){
         
          let session = URLSession.shared
-        print(urlString)
         guard let url = URL(string: urlString) else {
             completion(.failure(.inValidURL))
             return
@@ -53,7 +52,6 @@ struct Service {
             let decoder = JSONDecoder()
             do {
                 let cityWeather = try? decoder.decode(CityWeather.self, from: data)
-                print(data)
                 completion(.success(cityWeather!))
             } catch {
                 completion(.failure(.cannotProcessData))

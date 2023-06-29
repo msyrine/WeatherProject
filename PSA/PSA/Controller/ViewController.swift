@@ -11,6 +11,7 @@ class ViewController: UIViewController, Storyboarded {
 
 
     @IBOutlet weak var searchText: UITextField!
+    @IBOutlet weak var searchButton: UIButton!
     @IBOutlet weak var cityWeatherListTableView: UITableView!
     
     var viewModel = CityListViewModel()
@@ -19,7 +20,7 @@ class ViewController: UIViewController, Storyboarded {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-
+        self.searchButton.titleLabel?.text = ""
         self.setupTableView()
     }
 
@@ -69,28 +70,3 @@ extension ViewController: UITableViewDataSource, UITableViewDelegate {
 }
 
     
-
-
-
-/***
-
-ViewcontrollerDetail
-ViewControllerList
-
-
-ViewModelDetail
-ViewModelList
-
-Service:
- 
-Environnement: n7otou fih el url
-
- Model
- 
- Coordinator : AppRouter ( fonction .start : bech nasna3 el viewController men storyboard, w bech nasna3 el service wel viewmodel , n7othom fi b3adhhom )
- ListCoordination ( coordinator bch yhezni lel detail )
- 
- 
- appdelegate: AppRouter.start 
-
- */
