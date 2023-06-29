@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9EC7FF5C-F5E3-4051-935D-84D05FDA40E8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EFBAE36-B953-4384-970A-CCEBE80EDB01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PSA/Coordinator/AppRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "presentDetailFor(cityWeather:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9EFBAE36-B953-4384-970A-CCEBE80EDB01 - bdc6af7f6a4164d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PSA.AppRouter.presentDetailFor(cityWeather: PSA.CityWeather) -&gt; ()"
+                  moduleName = "PSA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/syrinemethlouthi/Desktop/PSA/PSA/Coordinator/AppRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  uuid = "9EFBAE36-B953-4384-970A-CCEBE80EDB01 - bdc6af7f6a4164d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PSA.AppRouter.presentDetailFor(cityWeather: PSA.CityWeather) -&gt; ()"
+                  moduleName = "PSA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/syrinemethlouthi/Desktop/PSA/PSA/Coordinator/AppRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9284CCB-7948-41F6-99A2-D0A957DE6E6E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PSA/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F9284CCB-7948-41F6-99A2-D0A957DE6E6E - 8eb86313a8aa60be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PSA.ViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "PSA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/syrinemethlouthi/Desktop/PSA/PSA/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "F9284CCB-7948-41F6-99A2-D0A957DE6E6E - 8eb86313a8aa60be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PSA.ViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "PSA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/syrinemethlouthi/Desktop/PSA/PSA/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "F9284CCB-7948-41F6-99A2-D0A957DE6E6E - 8eb86313a8aa60be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PSA.ViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "PSA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/syrinemethlouthi/Desktop/PSA/PSA/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "118">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "577FFCF9-5521-4DD3-B960-AA775EB8A34E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PSA/Coordinator/AppRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "presentDetailFor(cityWeather:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "577FFCF9-5521-4DD3-B960-AA775EB8A34E - bdc6af7f6a416496"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PSA.AppRouter.presentDetailFor(cityWeather: PSA.CityWeather) -&gt; ()"
+                  moduleName = "PSA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/syrinemethlouthi/Desktop/PSA/PSA/Coordinator/AppRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "577FFCF9-5521-4DD3-B960-AA775EB8A34E - bdc6af7f6a416571"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PSA.AppRouter.presentDetailFor(cityWeather: PSA.CityWeather) -&gt; ()"
+                  moduleName = "PSA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/syrinemethlouthi/Desktop/PSA/PSA/Coordinator/AppRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

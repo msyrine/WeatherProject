@@ -1,0 +1,4 @@
+#  <#Title#>
+Architecture choisie: MVVMC
+
+
